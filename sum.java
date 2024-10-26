@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class tUf {
+public class sum {
     public static List<List<Integer>> triplet(int n, int[] arr) {
         Set<List<Integer>> st = new HashSet<>();
 
@@ -39,4 +39,6 @@ public class tUf {
         System.out.println();
     }
 }
+
+// checking changes
 
